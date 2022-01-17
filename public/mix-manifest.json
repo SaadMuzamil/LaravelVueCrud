@@ -1,0 +1,14 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/resource/js/components/login.js": "/js/resource/js/components/login.js",
+    "/js/resource/js/components/welcome.js": "/js/resource/js/components/welcome.js",
+    "/js/resource/js/components/category/list.js": "/js/resource/js/components/category/list.js",
+    "/js/resource/js/components/category/add.js": "/js/resource/js/components/category/add.js",
+    "/js/resource/js/components/category/edit.js": "/js/resource/js/components/category/edit.js",
+    "/js/resource/js/components/category/show.js": "/js/resource/js/components/category/show.js",
+    "/js/resource/js/components/Employee/list.js": "/js/resource/js/components/Employee/list.js",
+    "/js/resource/js/components/Employee/add.js": "/js/resource/js/components/Employee/add.js",
+    "/js/resource/js/components/Employee/edit.js": "/js/resource/js/components/Employee/edit.js",
+    "/js/resource/js/components/Employee/show.js": "/js/resource/js/components/Employee/show.js",
+    "/css/app.css": "/css/app.css"
+}
