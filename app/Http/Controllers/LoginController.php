@@ -29,7 +29,7 @@ class LoginController extends Controller
                 ->withSuccess('Signed in');
         }
 
-        return redirect("login")->withSuccess('Login details are not valid');
+        return redirect("/")->withSuccess('Login details are not valid');
     }
 
 
